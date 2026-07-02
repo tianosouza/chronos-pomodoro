@@ -1,0 +1,8 @@
+.heading {
+  color: var(--primary);
+  font-size: 100px;
+}
+
+.purple {
+  color: var(--primary);
+}
